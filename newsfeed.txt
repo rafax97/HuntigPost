@@ -1,3 +1,25 @@
+Changelog Server 03/09/2022 
+
+• Add C4 
+
+• Add Airdrop 3 Types Drop
+  ➔ Weapons & Gear = 100% Military Zone
+  ➔ Medical & Food = 100% Big Hospital
+  ➔ Building Supplies = 100% Industrial
+
+• Change raid method (can raid with this) 
+  ➔ C4
+  ➔ Explosives
+  ➔ Sledgehammer
+  ➔ M79
+  ➔ Shooting
+
+• Add Territory Flag
+  ➔ You need to clain a zone for Building
+  ➔ 100 meters radius
+
+-----------------------------------
+
 New here?
 Open a ticket and claim your starter-kit!
 discord.me/worldwarz
