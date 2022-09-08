@@ -1,3 +1,9 @@
+Changelog Server 08/09/2022
+
+ • Add Survival Missions
+
+-----------------------------------
+
 Changelog Server 03/09/2022 
 
 • Add C4 
