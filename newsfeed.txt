@@ -3,7 +3,7 @@ Changelog Server 25/02/2023
 
 New here?
 Please check the rules in the Server Panel [ESC]
-discord.me/quietzone
+discord.me/qzone
 
 Found a bug? Report it!
 -----------------------------------
