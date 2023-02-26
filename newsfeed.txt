@@ -1,5 +1,8 @@
 Changelog Server 25/02/2023
 -----------------------------------
+-> Fix LoadingScreen
+-> Fix Weather ( less probability for rain every time)
+-----------------------------------
 
 New here?
 Please check the rules in the Server Panel [ESC]
