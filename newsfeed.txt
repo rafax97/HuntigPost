@@ -1,26 +1,18 @@
-Changedlog 02/03/2023
 
--> Increase Life time item to 4h ( Battery Charged ) now will not spawn within the radius of the flag.
--> Increase Life time item to 4h ( Cable-red ) now will not spawn within the radius of the flag.
-
--> Decrease Spawn Head Torch
--> Decrease Life Time item ( PowerGenarator ) for 4 hours, within the radius of the flag he will not make despawn
--> Decrease Life Time item ( smallprotectivecase) for 4 hours, within the radius of the flag he will not male despawn
-
-With these changes, I hope to give a more balance in the loot spawn by the map in some areas, thus giving possibility of other items can give spawn
 -----------------------------------
-Changelog Server 25/02/2023
+Changelog Server 07/10/2023
 
--> Fix LoadingScreen
--> Fix Weather ( less probability for rain every time)
+-> Fix Players after dying were unable to respawn and crashed 
+-> Add New Main Menu and LoadingScreen
+
 -----------------------------------
+Server Open ( 15/09/2023 )
 
 New here?
-Please check the rules in the Server Panel [ESC]
-discord.me/qzone
+Please check the rules and the FAQ´S in our discord
+discord.me/huntingpost
 
 Found a bug? Report it!
 -----------------------------------
 
-
-Quiet Zone Staff
+HuntingPost Staff
